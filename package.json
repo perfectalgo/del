@@ -46,7 +46,7 @@
 		"filesystem"
 	],
 	"dependencies": {
-		"globby": "^14.0.2",
+		"globby": "^11.1.0",
 		"graceful-fs": "^4.2.4",
 		"is-glob": "^4.0.1",
 		"is-path-cwd": "^3.0.0",
