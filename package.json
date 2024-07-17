@@ -49,7 +49,7 @@
 		"globby": "^11.1.0",
 		"graceful-fs": "^4.2.4",
 		"is-glob": "^4.0.1",
-		"is-path-cwd": "^3.0.0",
+		"is-path-cwd": "^2.2.0",
 		"is-path-inside": "^4.0.0",
 		"p-map": "^7.0.2",
 		"rimraf": "^6.0.1",
